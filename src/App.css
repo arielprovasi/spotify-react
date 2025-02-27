@@ -1,0 +1,6 @@
+@import './assets/styles/variables.css';
+
+body {
+  background-color: #000;
+  font-family: var(--font-dm-sans);
+}
